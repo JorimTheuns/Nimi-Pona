@@ -2,7 +2,7 @@
 
 Flashcards for the 137 core [toki pona](https://tokipona.org) words: the 120 from *pu* plus the 17 *ku suli* words. Each card shows the word in sitelen pona with its cluster of meanings and example sentences written three ways: glyphs, transliteration, translation.
 
-**Use it:** https://jorimtheuns.github.io/nimi-pona/
+**Use it:** https://jorimtheuns.github.io/Nimi-Pona/
 
 ## How it works
 
